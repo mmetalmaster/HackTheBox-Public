@@ -6,5 +6,5 @@ List of boxes:
 
 | Box Name | User | Root | Retired | Link to Guide | 
 |----------|------|------|---------|---------------|
-| Celestial | X | X | No | WIP |
-| Nibbles | X | X | No | Awaiting retirement |
+| Celestial | PWNEd | PWNed | No | WIP |
+| Nibbles | PWNed | PWNed | No | Awaiting retirement |
