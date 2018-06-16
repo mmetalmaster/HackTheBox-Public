@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///usr/bin/../share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.70 scan initiated Fri Jun 15 12:34:30 2018 as: nmap -sC -sV -e tun0 -oA ChatterboxFull -p- 10.10.10.74 -->
+<nmaprun scanner="nmap" args="nmap -sC -sV -e tun0 -oA ChatterboxFull -p- 10.10.10.74" start="1529087670" startstr="Fri Jun 15 12:34:30 2018" version="7.70" xmloutputversion="1.04">
+<scaninfo type="syn" protocol="tcp" numservices="65535" services="1-65535"/>
+<verbose level="0"/>
+<debugging level="0"/>
+<taskprogress task="SYN Stealth Scan" time="1529088233" percent="28.59" remaining="1372" etc="1529089604"/>
+<taskprogress task="SYN Stealth Scan" time="1529088248" percent="30.76" remaining="1270" etc="1529089518"/>
+<taskprogress task="SYN Stealth Scan" time="1529088352" percent="44.93" remaining="819" etc="1529089171"/>
+<taskprogress task="SYN Stealth Scan" time="1529088505" percent="79.31" remaining="215" etc="1529088719"/>
+<taskprogress task="SYN Stealth Scan" time="1529088523" percent="84.12" remaining="159" etc="1529088681"/>
+<taskprogress task="SYN Stealth Scan" time="1529088534" percent="85.22" remaining="148" etc="1529088681"/>
+<taskprogress task="SYN Stealth Scan" time="1529088623" percent="89.92" remaining="106" etc="1529088728"/>
+<taskprogress task="SYN Stealth Scan" time="1529088685" percent="90.09" remaining="111" etc="1529088795"/>
+<taskprogress task="SYN Stealth Scan" time="1529088719" percent="90.19" remaining="113" etc="1529088832"/>
+<taskprogress task="SYN Stealth Scan" time="1529088807" percent="97.73" remaining="27" etc="1529088833"/>
+<host starttime="1529087670" endtime="1529088902"><status state="up" reason="echo-reply" reason_ttl="127"/>
+<address addr="10.10.10.74" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<ports><extraports state="filtered" count="65534">
+<extrareasons reason="no-responses" count="65534"/>
+</extraports>
+<port protocol="tcp" portid="9256"><state state="open" reason="syn-ack" reason_ttl="127"/></port>
+</ports>
+<times srtt="197141" rttvar="25839" to="300497"/>
+</host>
+<runstats><finished time="1529088902" timestr="Fri Jun 15 12:55:02 2018" elapsed="1231.93" summary="Nmap done at Fri Jun 15 12:55:02 2018; 1 IP address (1 host up) scanned in 1231.93 seconds" exit="success"/><hosts up="1" down="0" total="1"/>
+</runstats>
+</nmaprun>
