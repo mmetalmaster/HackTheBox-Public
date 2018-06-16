@@ -12,7 +12,7 @@ This repo will highlight my walkthroughs of the retired HackTheBox.eu machines t
 
 | Box Name | User | Root | Guide ready |
 |----------|------|------|-------------|
-| Chatterbox | PWNed 06/15/2018 | PWNed 06/15/2018| WIP |
+| Chatterbox | PWNed 06/15/2018 | PWNed 06/15/2018| Yes |
 | Poison | PWNed 05/29/2018 | PWNed 05/29/2018 | Yes |
-| Celestial | PWNed 05/29/2018 | PWNed 05/29/2018 | WIP |
+| Celestial | PWNed 05/29/2018 | PWNed 05/29/2018 | Yes |
 | Nibbles | PWNed 05/28/2018 | PWNed 05/28/2018 | Yes |
