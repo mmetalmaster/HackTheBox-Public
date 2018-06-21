@@ -13,6 +13,7 @@ This repo will highlight my walkthroughs of the retired HackTheBox.eu machines t
 
 | Box Name | User | Root | Guide ready |
 |----------|------|------|-------------|
+| Valentine | PWNed 06/20/2018 | PWNed 06/20/2018 | No |
 | Poison | PWNed 05/29/2018 | PWNed 05/29/2018 | Yes |
 | Celestial | PWNed 05/29/2018 | PWNed 05/29/2018 | Yes |
 | Nibbles | PWNed 05/28/2018 | PWNed 05/28/2018 | Yes |
