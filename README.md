@@ -18,3 +18,4 @@ This repo will highlight my walkthroughs of the retired HackTheBox.eu machines t
 | Sunday | PWNed 06/21/2018 | PWNed 06/21/2018 | No |
 | Poison | PWNed 05/29/2018 | PWNed 05/29/2018 | Yes |
 | Celestial | PWNed 05/29/2018 | PWNed 05/29/2018 | Yes |
+| Jerry | PWNed 07/30/2018 | PWNed 07/30/2018 | No |
