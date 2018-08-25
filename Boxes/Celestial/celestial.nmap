@@ -1,0 +1,10 @@
+# Nmap 7.70 scan initiated Tue May 29 15:01:20 2018 as: nmap -sC -sV -e tun0 -oA celestial 10.10.10.85
+Nmap scan report for 10.10.10.85
+Host is up (0.19s latency).
+Not shown: 999 closed ports
+PORT     STATE SERVICE VERSION
+3000/tcp open  http    Node.js Express framework
+|_http-title: Site doesn't have a title (text/html; charset=utf-8).
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue May 29 15:01:55 2018 -- 1 IP address (1 host up) scanned in 35.18 seconds
